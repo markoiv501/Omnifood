@@ -155,3 +155,7 @@ checkFlexGap();
   }
 }
 */
+
+document.querySelector(".button-21").addEventListener("click", function () {
+  window.location.href = "https://projects.citalac.com";
+});
